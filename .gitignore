@@ -1,0 +1,5 @@
+.env
+*.txt
+export/
+.venv
+__pycache__/
